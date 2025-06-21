@@ -2,7 +2,7 @@
 
 This is a NextJS starter in Firebase Studio.
 
-<a href="https://studio.firebase.google.com/import?url=">
+<a href="https://studio.firebase.google.com/import?url=https://github.com/saikiran1224/SlideForge-Vibecoded.git">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
